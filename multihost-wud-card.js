@@ -516,3 +516,5 @@ window.customCards.push({
   name: 'Multi-Host WUD Card',
   description: 'A card to display updates for multiple Docker hosts using WUD.'
 });
+
+console.info('%c MARKRAD-WUD-CARD %c v1.0.1 ', 'color: white; background: #03a9f4; font-weight: bold;', 'color: #03a9f4; background: white; font-weight: bold;');
