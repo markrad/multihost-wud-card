@@ -517,4 +517,4 @@ window.customCards.push({
   description: 'A card to display updates for multiple Docker hosts using WUD.'
 });
 
-console.info('%c MARKRAD-WUD-CARD %c v1.0.1 ', 'color: white; background: #03a9f4; font-weight: bold;', 'color: #03a9f4; background: white; font-weight: bold;');
+console.info('%c MARKRAD-WUD-CARD %c v0.0.2 ', 'color: white; background: #03a9f4; font-weight: bold;', 'color: #03a9f4; background: white; font-weight: bold;');
