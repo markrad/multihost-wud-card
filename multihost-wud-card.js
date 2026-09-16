@@ -509,3 +509,10 @@ class MultiHostWudCard extends HTMLElement {
 }
 
 customElements.define('multihost-wud-card', MultiHostWudCard);
+
+window.customCards = window.customCards || [];
+window.customCards.push({
+  type: 'multihost-wud-card',
+  name: 'Multi-Host WUD Card',
+  description: 'A card to display updates for multiple Docker hosts using WUD.'
+});
